@@ -1,4 +1,4 @@
-package kr.ac.hansung.cse.model;
+package kr.ac.hansung.cse.controller.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

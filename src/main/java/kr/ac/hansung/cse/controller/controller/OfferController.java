@@ -1,8 +1,7 @@
-package kr.ac.hansung.cse.controller;
+package kr.ac.hansung.cse.controller.controller;
 
-import jakarta.servlet.http.HttpServletRequest;
-import kr.ac.hansung.cse.model.Offer;
-import kr.ac.hansung.cse.service.OfferService;
+import kr.ac.hansung.cse.controller.model.Offer;
+import kr.ac.hansung.cse.controller.service.OfferService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

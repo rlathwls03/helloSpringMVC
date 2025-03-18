@@ -12,6 +12,5 @@
   </head>
   <body>
   <p> <a href="${pageContext.request.contextPath}/offers"> Show current offers</a></p>
-
   </body>
 </html>

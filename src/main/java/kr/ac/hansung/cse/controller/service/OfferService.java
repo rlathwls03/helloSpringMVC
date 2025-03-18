@@ -1,7 +1,7 @@
-package kr.ac.hansung.cse.service;
+package kr.ac.hansung.cse.controller.service;
 
-import kr.ac.hansung.cse.dao.OfferDao;
-import kr.ac.hansung.cse.model.Offer;
+import kr.ac.hansung.cse.controller.dao.OfferDao;
+import kr.ac.hansung.cse.controller.model.Offer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
